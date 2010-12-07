@@ -1,7 +1,7 @@
 %define name	plasma-wallpaper-flymode
 %define version	 0.8
 %define srcname	plasma-wallpaper-FlyMode
-%define release	%mkrel 0
+%define release	%mkrel 1
 %define Summary	 An animated wallpaper
 
 
