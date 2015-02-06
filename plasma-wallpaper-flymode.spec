@@ -3,7 +3,7 @@
 Summary:	An animated wallpaper
 Name:		plasma-wallpaper-flymode
 Version:	0.8
-Release:	2
+Release:	3
 License:	GPLv2
 Group:		Graphical desktop/KDE
 URL:		http://www.kde-look.org
