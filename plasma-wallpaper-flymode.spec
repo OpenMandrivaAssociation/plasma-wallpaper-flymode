@@ -6,7 +6,7 @@ Version:	0.8
 Release:	3
 License:	GPLv2
 Group:		Graphical desktop/KDE
-URL:		http://www.kde-look.org
+URL:		https://www.kde-look.org
 Source0:	http://www.kde-look.org/CONTENT/content-files/119187-%{srcname}_%{version}.tar.gz
 BuildRequires:	kdebase4-workspace-devel
 Requires:	kdebase4-runtime
